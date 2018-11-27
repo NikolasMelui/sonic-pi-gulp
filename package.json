@@ -1,0 +1,13 @@
+{
+  "name": "sonic-pi-gulp",
+  "version": "0.0.1",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "description": "A first simple build for Sonic PI using iterm2 and VSC.",
+  "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0"
+  },
+  "scripts": {
+    "dev": "./node_modules/.bin/gulp"
+  }
+}
