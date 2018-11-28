@@ -8,6 +8,7 @@
     "gulp": "gulpjs/gulp#4.0"
   },
   "scripts": {
-    "dev": "./node_modules/.bin/gulp"
+    "play": "./node_modules/.bin/gulp",
+    "stop": "sonic_pi stop"
   }
 }
